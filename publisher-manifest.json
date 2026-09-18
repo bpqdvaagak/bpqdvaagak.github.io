@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "0d0f25f1a30718ab3ae64f37",
+  "owner": "bpqdvaagak",
+  "repo": "bpqdvaagak.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "b36bd8137a4e301e95810ca8",
+      "a": "泡芙云",
+      "b": "官网",
+      "entity": "泡芙云",
+      "brand": "泡芙云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "12b41b7a1c63ccfac322ba0a5cf6c14fb9643b29eb74cb33ddc02c755544e4e3",
+      "content": {
+        "primary_entity": "泡芙云",
+        "keyword1": "泡芙云",
+        "keyword2": "官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择对应客户端：手机端用系统兼容客户端，电脑端根据系统下载安装包，路由器端通过固件插件或旁路由方式导入订阅。",
+          "AI_CLIENTS_TITLE": "客户端按设备挑选",
+          "AI_CLOSING_TEXT": "选好套餐后，对照设备清单下载客户端，按文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选套餐配客户端",
+          "AI_DESCRIPTION": "，泡芙云面向需要海外网络加速的用户，提供基础版、旗舰版和团队版三种套餐。基础版适合轻度使用，旗舰版兼顾流媒体与游戏加速，团队版满足多设备高流量需求。选择时先看设备数量与月流量，再决定按月或按年付费。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量和订阅周期三个角度了解泡芙云的使用方式。",
+          "AI_FEATURES_TITLE": "套餐、设备与周期",
+          "AI_FEATURE_TEXT_1": "基础版、旗舰版、团队版按流量和设备数区分，轻度用户选基础版，多设备高流量选团队版。",
+          "AI_FEATURE_TEXT_2": "购买前确认常用设备的操作系统与客户端支持情况，再按客户端文档完成订阅导入。",
+          "AI_FEATURE_TEXT_3": "按月付费灵活，按年付费更划算；订阅周期内可在对应设备数量范围内分配使用。",
+          "AI_FEATURE_TITLE_1": "按需选套餐",
+          "AI_FEATURE_TITLE_2": "确认设备适配",
+          "AI_FEATURE_TITLE_3": "按月或按年付",
+          "AI_GUIDE_INTRO": "三步完成泡芙云的使用准备：选服务、查适配、配订阅。",
+          "AI_GUIDE_TITLE": "三步配置指引",
+          "AI_HERO_INTRO": "泡芙云提供海外网络加速服务，按流量与设备数量划分基础版、旗舰版和团队版。用户可先确认常用设备的系统类型，再选择适合的套餐与订阅周期，最后按客户端文档导入订阅。",
+          "AI_HERO_SUBTITLE": "海外加速按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐灵活选择",
+          "AI_HIGHLIGHT_2": "按设备数量区分档位",
+          "AI_HIGHLIGHT_3": "月付年付自由切换",
+          "AI_PLANS_INTRO": "不同套餐在流量、设备数量和节点类型上有差异，先明确自己的使用场景再对比。",
+          "AI_PLANS_TITLE": "对比套餐选合适档位",
+          "AI_STEP_TEXT_1": "根据日常流量和设备数量，在基础版、旗舰版、团队版中选出符合需求的套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐对应的适配要求，确认手机、电脑或路由器等设备可正常使用。",
+          "AI_STEP_TEXT_3": "依照对应客户端的配置说明导入订阅，完成连接后即可开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "泡芙云套餐与配置",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "泡芙云的基础版适合哪些用户？",
+          "AI_FAQ_ANSWER_1": "基础版流量与设备数量较为有限，适合以浏览网页、查资料和轻量视频为主的个人用户。如果有流媒体或游戏需求，可考虑更高档位。",
+          "AI_FAQ_QUESTION_2": "旗舰版相比基础版多了什么？",
+          "AI_FAQ_ANSWER_2": "旗舰版在流量和同时在线设备数上进一步提升，并提供全节点原生流媒体解锁和专线游戏加速优化，适合对线路质量和视频体验有要求的用户。",
+          "AI_FAQ_QUESTION_3": "团队版可以支持多少设备协作？",
+          "AI_FAQ_ANSWER_3": "团队版可支持较多设备同时在线，并提供专属高带宽节点与企业定制路由，适合小型团队或多设备家庭集中使用。",
+          "AI_FAQ_QUESTION_4": "年付和月付怎么选？",
+          "AI_FAQ_ANSWER_4": "月付适合先短期体验，年付省去每月续费操作，长期使用更省心。可先按月试用一档套餐，确认线路与设备兼容后再切换为年付。",
+          "AI_FAQ_QUESTION_5": "在哪些设备上可以导入订阅？",
+          "AI_FAQ_ANSWER_5": "Windows、macOS、Android 和 iOS 均有对应客户端可按文档导入订阅，路由器在固件支持的前提下也可配置。建议先确认设备系统版本再选择客户端。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "c2b52a260ef2c6d7886a87e29a4f8bbd8adc419c4bb34c721f60f4e93431e850",
+    "sitemap.xml": "7a601aeac7fb33ed64cef50cbee27dcaba3e169afa7fb587d2e9131dc4ad5042",
+    "robots.txt": "f357df0506ae6db799a83232893248799db94c583e2a73528a767b5407f885b4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "b9ce05f98365b23e9118adacaa5b2b01a4397e9eba451fee3b0e38b6df66b7c7"
+}

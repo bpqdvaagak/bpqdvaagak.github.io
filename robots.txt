@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bpqdvaagak.github.io/sitemap.xml
